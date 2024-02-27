@@ -1,3 +1,3 @@
-varibale "env_name" {
+variable "env_name" {
   default = "dev"
 }
